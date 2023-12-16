@@ -1,0 +1,59 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Cucumber App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Wanna try to take a look other people insight?? Check this app now and started to upload your first content to make your own memory</string>
+    <string name="title_welcome_page">Welcome to Cucumber Apps</string>
+    <string name="title_signup_page">This is the wonderful story app </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">But first fill this form</string>
+    <string name="title_login_page">Wanna try this story apps??</string>
+    <string name="name">Name</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_add_story">AddStoryActivity</string>
+
+    //navigation
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    //sign
+    <string name="fill_username">Name cannot be empty</string>
+    <string name="fill_email">Email cannot be empty</string>
+    <string name="fill_password">The password cannot be empty</string>
+    <string name="succes_login">You have successfully registered. Can`t wait, right?</string>
+    <string name="invalid_email">E-Mail is invalid! Must contain \"@\" and \".\".</string>
+    <string name="password_length">Minimum 8 character passwordr</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="loading">LOAD..</string>
+    <string name="signup_alert">Don\'t have an account yet?</string>
+    <string name="email_invalid">Invalid Email Address</string>
+    <string name="ex_email">example@gmail.com</string>
+    <string name="ex_pass">min 8 char</string>
+    <string name="description">Description\n</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">UPLOAD</string>
+    <string name="image_empty">Please insert image first!!</string>
+    <string name="unsuccess_text">Unsuccessfull to load..</string>
+    <string name="dated">Date</string>
+
+    <string name="user">User</string>
+    <string name="yeah">Yeah!</string>
+    <string name="sign_alert">Account with %1$s is activated. Lets login it!!</string>
+    <string name="logout_alert">Are you sure to log out this account? :((</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="setting">Setting</string>
+    <string name="title_activity_my_maps">MyMaps</string>
+    <string name="maps">Maps</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>

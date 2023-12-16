@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Aplikasi Cucumber</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau mencoba untuk melihat insight orang lain?? Cek aplikasi ini sekarang dan daftar untuk mengunggah konten pertamamu dan membuat memorimu sendiri</string>
+    <string name="title_welcome_page">Selamat datang di Cucumber Apps</string>
+    <string name="title_signup_page">Aplikasi Story yang menyenangkan </string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Tapi, isi form ini dulu</string>
+    <string name="title_login_page">Ingin mencoba Aplikasi Story ini?</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_add_story">AddStoryActivity</string>
+
+    //navigation
+    <string name="first_fragment_label">Fragment Pertama</string>
+    <string name="second_fragment_label">Fragment Kedua</string>
+    <string name="next">Lanjut</string>
+    <string name="previous">Kembali</string>
+
+    //sign
+    <string name="fill_username">Nama tidak boleh kosong</string>
+    <string name="fill_email">Email tidak boleh kosong</string>
+    <string name="fill_password">Kata sandi tidak boleh kosong</string>
+    <string name="succes_login">Kamu sudah terdaftar. Sudah tidak sabar, kan?</string>
+    <string name="invalid_email">Email tidak valid! Harus terdapat \"@\" dan \".\".</string>
+    <string name="password_length">Minimal 8 karakter kata sandi</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="loading">Memuat..</string>
+    <string name="signup_alert">Belum punya akun?</string>
+    <string name="email_invalid">Email tidak valid</string>
+    <string name="ex_email">contoh@gmail.com</string>
+    <string name="ex_pass">min 8 karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">UNGGAH</string>
+    <string name="image_empty">Isi foto dulu!!</string>
+    <string name="unsuccess_text">Tidak bisa memuat..</string>
+    <string name="dated">Tanggal</string>
+
+    <string name="user">User</string>
+    <string name="yeah">Yeah!</string>
+    <string name="sign_alert">Akun dengan %1$s sudah aktif. Lanjut login kuy!!</string>
+    <string name="logout_alert">Kamu mau keluar? :((</string>
+    <string name="btn_next">Lanjut</string>
+    <string name="btn_cancel">Kembali</string>
+    <string name="setting">Pengaturan</string>
+    <string name="title_activity_my_maps">Peta</string>
+    <string name="maps">Peta</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
